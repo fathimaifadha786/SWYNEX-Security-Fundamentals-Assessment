@@ -101,7 +101,7 @@ The response returned `401 Unauthorized` when invalid login details were submitt
 
 **Screenshot 1:** Invalid login attempt using Burp Suite.
 
-<!-- The screenshot will be displayed here after you upload it to the evidence folder. -->
+![Figure 1: Invalid login attempt using Burp Suite](screenshot-1.png)
 
 ### Evidence 2: Modified Login Request
 
@@ -111,7 +111,7 @@ The response returned `200 OK` and included the admin account email address.
 
 **Screenshot 2:** Modified login request and authentication response.
 
-<!-- The screenshot will be displayed here after you upload it to the evidence folder. -->
+![Figure 2: Modified login request and authentication response](screenshot-2.png)
 
 **Evidence safety:** Authentication tokens, cookies, session values, and other sensitive information must be hidden in screenshots before they are uploaded to a public repository.
 
