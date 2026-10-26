@@ -111,7 +111,7 @@ The response returned `200 OK` and included the admin account email address.
 
 **Screenshot 2:** Modified login request and authentication response.
 
-![Figure 2: Modified login request and authentication response](screenshot-2.png)
+![Figure 2: Modified login request and authentication response](./Screenshot-2.png)
 
 **Evidence safety:** Authentication tokens, cookies, session values, and other sensitive information must be hidden in screenshots before they are uploaded to a public repository.
 
